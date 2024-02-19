@@ -1,4 +1,4 @@
-# Project Name
+# REACT TIC TAC TOE
 
 > One paragraph statement about the project.
 
@@ -14,14 +14,14 @@
 
 ## Live Demo
 
-[Live Demo Link](https://js-react-template.netlify.app/)
+[Live Demo Link](https://react-tic-tac-toe.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/js-react-template.git
+git clone https://github.com/moshoodabdullahi/react-tic-tac-toe.git
 
 ```
 
